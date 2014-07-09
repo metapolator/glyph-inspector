@@ -1,0 +1,28 @@
+{
+  "name": "glyph-inspector",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Troush/glyph-inspector",
+  "authors": [
+    "troush <troush69@gmail.com>"
+  ],
+  "description": "Inspector for raw .ufo files",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13",
+    "requirejs-domready": "requirejs/domReady#~2.0.1",
+    "requirejs-text": "requirejs/text#~2.0.12",
+    "requirejs": "~2.1.14"
+  }
+}

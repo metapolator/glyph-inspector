@@ -1,0 +1,9 @@
+[submodule "lib/ufoJS"]
+	path = lib/ufoJS
+	url = git@github.com:graphicore/ufoJS.git
+[submodule "lib/obtainJS"]
+	path = lib/obtainJS
+	url = git@github.com:graphicore/obtainJS.git
+[submodule "lib/zip"]
+	path = lib/zip
+	url = https://github.com/gildas-lormeau/zip.js
